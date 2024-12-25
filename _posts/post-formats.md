@@ -1,7 +1,7 @@
 ---
-title: "카테고리A"
+title: "Post Formats"
 layout: archive
-permalink: /categoryA
+permalink: categories/post-formats
 ---
 
 {% assign posts = site.categories.blog %}

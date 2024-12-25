@@ -1,7 +1,7 @@
 ---
-title: "카테고리B"
+title: "Problem Solving"
 layout: archive
-permalink: /categoryB
+permalink: categories/problem-solving
 ---
 
 {% assign posts = site.categories.blog %}
