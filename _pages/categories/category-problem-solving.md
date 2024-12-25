@@ -3,6 +3,8 @@ title: "Problem Solving"
 layout: category
 permalink: /categories/problem-solving
 taxonomy: Problem Solving
+sidebar:
+    nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.blog %}
