@@ -1,10 +1,8 @@
 ---
 title: "Problem Solving"
 layout: category
-permalink: /categories/ps
-taxonomy: ps
-sidebar:
-    nav: "sidebar-category"
+permalink: /categories/problem-solving
+taxonomy: Problem Solving
 ---
 
 {% assign posts = site.categories.blog %}

@@ -11,8 +11,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar-category:
-  - title: "블로그"
+categories:
+  - title: "Blog"
     children:
       - title: "Problem Solving"
-        url: "/categories/ps"
+        url: "/categories/problem-solving"
