@@ -3,6 +3,8 @@ title: "Problem Solving"
 layout: category
 permalink: /categories/problem-solving
 taxonomy: Problem Solving
+
+author_profile: true
 sidebar:
     nav: "sidebar-category"
 ---
