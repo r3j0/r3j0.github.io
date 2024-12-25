@@ -15,4 +15,4 @@ sidebar-category:
   - title: "블로그"
     children:
       - title: "Problem Solving"
-        url: "/categories/problemsolving"
+        url: "/categories/ps"

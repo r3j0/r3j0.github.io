@@ -1,8 +1,8 @@
 ---
 title: "Problem Solving"
 layout: category
-permalink: /categories/problemsolving
-taxonomy: problemsolving
+permalink: /categories/ps
+taxonomy: ps
 sidebar:
     nav: "sidebar-category"
 ---
