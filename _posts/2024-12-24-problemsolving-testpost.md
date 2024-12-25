@@ -1,12 +1,12 @@
 ---
 title: "두 번째 테스트 게시물 입니다."
 categories:
-  - problem-solving
+  - problemsolving
 tags:
-  - problem-solving
+  - problemsolving
   - python
   - dp
-permalink: /problem-solving/test-post/
+permalink: /problemsolving/testpost/
 
 date: 2024-12-24
 last_modified_at: 2024-12-25
