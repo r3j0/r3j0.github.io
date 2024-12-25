@@ -12,9 +12,7 @@ main:
   #   url: /sitemap/
 
 sidebar-category:
-  - title: "카테고리1"
+  - title: "블로그"
     children:
-      - title: "카테고리A"
-        url: "/categoryA"
-      - title: "카테고리B"
-        url: "/categoryB"
+      - title: "Problem Solving"
+        url: "/categories/problem-solving"
