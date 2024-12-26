@@ -10,9 +10,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Home"
+    url: https://r3j0.github.io/ # 블로그 HOME 바로가기
+  - title: "About"
+    url: /about/ #_pages/about.md 연결
+  - title: "GitHub"
+    url: https://github.com/r3j0/ # 깃허브 바로가기 (본인 깃허브로 변경)
 
 sidebar-category:
-  - title: "Blog"
-    children:
-      - title: "Problem Solving"
-        url: "/categories/problem-solving"
+  - title: "Problem Solving"
+    url: "/categories/problem-solving"
